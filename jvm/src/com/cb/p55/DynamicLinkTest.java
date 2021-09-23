@@ -5,6 +5,7 @@ public class DynamicLinkTest {
 
     public void methodA(){
         System.out.println("methodA()....");
+
     }
 
     public void methodB(){
